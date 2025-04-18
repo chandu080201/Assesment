@@ -1,0 +1,5 @@
+{
+  "test_name": "Optimized vs Standard Email Test",
+  "test_date": "2025-04-16",
+  "total_users": 100000,
+  "control_users": 
